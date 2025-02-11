@@ -1,0 +1,19 @@
+.top{
+    display:flex;
+    justify-content: space-around;
+}
+
+.main div{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.main{
+     display: flex;
+     justify-content: space-around;
+     color: aliceblue;
+   text-align: center;
+}
+.r{
+    text-align: center;
+}
